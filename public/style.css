@@ -1,0 +1,24 @@
+#sendBtn{
+    background-color: rgb(106, 103, 103);
+    color:white;
+    padding: 0.6rem 0.8rem;
+    border-radius: 10px;
+    border:0
+}
+
+#message::placeholder{
+    color:white
+}
+
+#message{
+    background-color: rgb(154, 150, 150);
+    padding:0.6rem 0.8rem;
+    color:white;
+    border-radius: 10px;
+    border:0
+}
+
+#messages{
+    font-size: 1rem;
+    color:grey
+}
